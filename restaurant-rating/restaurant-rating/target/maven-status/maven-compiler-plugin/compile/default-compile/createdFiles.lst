@@ -1,0 +1,12 @@
+com\example\restaurant_rating\RestaurantRatingApplication.class
+com\example\restaurant_rating\entity\CuisineType.class
+com\example\restaurant_rating\repository\RestaurantRepository.class
+com\example\restaurant_rating\config\DataInitializer.class
+com\example\restaurant_rating\entity\Visitor.class
+com\example\restaurant_rating\service\RestaurantService.class
+com\example\restaurant_rating\repository\RatingRepository.class
+com\example\restaurant_rating\service\VisitorService.class
+com\example\restaurant_rating\service\RatingService.class
+com\example\restaurant_rating\entity\Restaurant.class
+com\example\restaurant_rating\entity\Rating.class
+com\example\restaurant_rating\repository\VisitorRepository.class
